@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    height: fit-content;
+    -webkit-animation: alternate-reverse;
+    text-size-adjust:unset;
+
+}
+body{
+    background-color: gold;
+}
+.parent{
+    text-align: center;
+    box-sizing: content-box;
+    border-top-left-radius: 0cqb;
+    
+}
